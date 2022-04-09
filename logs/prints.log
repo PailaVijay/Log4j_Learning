@@ -1,0 +1,6 @@
+17:26:38.590 [main] INFO  project1.Amazon - checking whether the text inserted or not
+17:50:57.557 [main] DEBUG project1.Amazon - setting chrome driver property
+17:51:02.025 [main] INFO  project1.Amazon - window maximized
+17:51:02.026 [main] DEBUG project1.Amazon - now click on amazon server
+17:51:07.189 [main] DEBUG project1.Amazon - count the frame present in the home page
+17:51:07.294 [main] INFO  project1.Amazon - successfully jump into frame

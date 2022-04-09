@@ -1,0 +1,12 @@
+17:18:30.131 [main] DEBUG project1.Amazon - setting chrome driver property
+17:25:52.911 [main] DEBUG project1.Amazon - setting chrome driver property
+17:25:53.119 [main] DEBUG project1.Amazon - setting chrome driver property
+17:26:12.167 [main] INFO  project1.Amazon - window maximized
+17:26:12.168 [main] DEBUG project1.Amazon - now click on amazon server
+17:26:12.219 [main] INFO  project1.Amazon - window maximized
+17:26:12.220 [main] DEBUG project1.Amazon - now click on amazon server
+17:26:32.533 [main] INFO  project1.Amazon - navigate to amazon home page
+17:26:33.553 [main] INFO  project1.Amazon - move to account and list
+17:26:34.690 [main] INFO  project1.Amazon - navigate to amazon home page
+17:26:35.404 [main] INFO  project1.Amazon - move to account and list
+17:26:38.577 [main] INFO  project1.Amazon - checking whether the text inserted or not
